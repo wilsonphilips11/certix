@@ -20,31 +20,6 @@ Public
 </p>
 <br>
 
-Admin Dashboard
-<br>
-<p align="center">
-  <img src="docs/dashboard.png" width="40%">
-  <img src="docs/generate_document.png" width="40%">
-</p>
-
-<p align="center">
-  <img src="docs/distribute_document.png" width="40%">
-  <img src="docs/verification_log.png" width="36.5%">
-</p>
-
-<p align="center">
-  <img src="docs/settings.png" width="40%">
-  <img src="docs/scheduler.png" width="40%">
-</p>
-<br>
-
-Officials Dashboard
-<br>
-<p align="center">
-  <img src="docs/sign_document.png" width="40%">
-</p>
-<br>
-
 ## Contributors
 * Benny Richardson
 * Kevin Hendy
